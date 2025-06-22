@@ -1,0 +1,6 @@
+aws
+bin
+cdk.out
+dist
+node_modules
+.env
